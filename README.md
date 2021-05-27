@@ -1,3 +1,7 @@
+# About
+
+This project was created to explore creating breadcrumbs using NPM package angular-crumbs.
+
 # AngularBreadcrumbs
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.1.
